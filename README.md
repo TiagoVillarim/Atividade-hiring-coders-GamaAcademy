@@ -1,3 +1,3 @@
-﻿# Atividade-hiring-coders-GamaAcademy
+﻿# Atividades-hiring-coders-GamaAcademy
  
- Atividade Prática de Java Script.
+ Atividades Práticas de Java Script.
